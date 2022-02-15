@@ -1,0 +1,10 @@
+{
+  "name": "parkrun",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.26.0",
+    "fs": "0.0.1-security",
+    "node-html-parser": "^1.1.16"
+  }
+}
